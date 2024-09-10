@@ -8,7 +8,7 @@ Este projeto utiliza uma **API públicas** para buscar CEPs. A API pode se encon
 
 ## APIs Publicas Usadas
 
-Para buscar um CEP pode-se usar a seguinte URL considerando o cep 62823000 como exemplo:
+Para buscar um CEP pode-se usar a seguinte URL considerando o cep 62823000 como exemplo:rr
 ```
 https://viacep.com.br/ws/62823000/json/
 ```
